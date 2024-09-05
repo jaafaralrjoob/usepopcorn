@@ -7,7 +7,7 @@ This application is a part of a course offered by Jonas Schmedtmann. I built the
 
 - search movie
 - show movie details
-- rate the movie and add it to watch
+- rate the movie and add it to watch list
 - remove the movie from watched
 - show stats about your watched movies
 - use the Enter key to start searching for the movie
